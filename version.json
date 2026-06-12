@@ -1,9 +1,11 @@
 {
-  "version": "8.0.0",
-  "releaseDate": "2026-06-12T13:15:00.000Z",
-  "downloadUrl": "https://github.com/ming0628-4/annotag-workshop/releases/download/v8.0.0/annotag-workshop-setup-8.0.0.exe",
-  "fileName": "annotag-workshop-setup-8.0.0.exe",
+  "version": "9.0.0",
+  "releaseDate": "2026-06-12T14:30:00.000Z",
+  "downloadUrl": "https://github.com/ming0628-4/annotag-workshop/releases/download/v9.0.0/annotag-workshop-setup-9.0.0.exe",
+  "fileName": "annotag-workshop-setup-9.0.0.exe",
+  "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v9.0.0",
   "changelog": [
+    "v9.0.0: 更新机制全面重构 — CDN多源+局域网发现+GitHub Releases分发",
     "v8.0.0: 全面优化 — 27项功能升级",
     "A. 性能加固: 数据库索引+12/WAL模式/LRU缓存50张/PDF预渲染/缩放防抖/IPC批量接口/错误崩溃恢复",
     "B. 工具升级: Tool Chest工具预设/选择工具全类型命中+Ctrl多选+框选+复制粘贴/尺寸线工具/文字编辑增强",
@@ -14,12 +16,10 @@
   ],
   "files": [
     {
-      "name": "annotag-workshop-setup-8.0.0.exe",
-      "sha512": "ZuQ8nJBsq0NoHGh8/PE9JxZG3LNnH8es6PODDEcvvBDuclcJHK1f+dWFhBQkIYXYU9ALxi+PlhBkLp90ENvK2w==",
-      "size": 196754514,
-      "type": "nsis",
-      "url": "https://ming0628-4.github.io/annotag-workshop-setup-8.0.0.exe"
+      "name": "annotag-workshop-setup-9.0.0.exe",
+      "sha512": "",
+      "size": 196690000,
+      "type": "nsis"
     }
-  ],
-  "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v8.0.0"
+  ]
 }
