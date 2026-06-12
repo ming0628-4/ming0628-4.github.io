@@ -1,0 +1,25 @@
+{
+  "version": "8.0.0",
+  "releaseDate": "2026-06-12T13:15:00.000Z",
+  "downloadUrl": "https://github.com/ming0628-4/annotag-workshop/releases/download/v8.0.0/annotag-workshop-setup-8.0.0.exe",
+  "fileName": "annotag-workshop-setup-8.0.0.exe",
+  "changelog": [
+    "v8.0.0: 全面优化 — 27项功能升级",
+    "A. 性能加固: 数据库索引+12/WAL模式/LRU缓存50张/PDF预渲染/缩放防抖/IPC批量接口/错误崩溃恢复",
+    "B. 工具升级: Tool Chest工具预设/选择工具全类型命中+Ctrl多选+框选+复制粘贴/尺寸线工具/文字编辑增强",
+    "C. 测量系统: 智能比例尺显示/测量完成浮动标签输入/校准比显示",
+    "D. 数据导出: 统计仪表盘(环形图+KPI卡片+热点页TOP5)/审计Tab统一导出入口",
+    "E. 项目管理: 多文档标签页/Ctrl+F全局搜索(跨文档搜索+点击跳转)",
+    "F. UI/UX: 审计Ribbon Tab/增强右键菜单(14项操作)/属性面板位置尺寸控制/书签面板/CSS动画优化"
+  ],
+  "files": [
+    {
+      "name": "annotag-workshop-setup-8.0.0.exe",
+      "sha512": "ZuQ8nJBsq0NoHGh8/PE9JxZG3LNnH8es6PODDEcvvBDuclcJHK1f+dWFhBQkIYXYU9ALxi+PlhBkLp90ENvK2w==",
+      "size": 196754514,
+      "type": "nsis",
+      "url": "https://ming0628-4.github.io/annotag-workshop-setup-8.0.0.exe"
+    }
+  ],
+  "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v8.0.0"
+}
