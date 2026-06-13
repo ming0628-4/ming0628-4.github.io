@@ -1,10 +1,10 @@
 {
-  "version": "14.0.1",
-  "releaseDate": "2026-06-13T06:08:56.532Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-14.0.1.exe",
-  "fileName": "annotag-workshop-setup-14.0.1.exe",
+  "version": "15.0.0",
+  "releaseDate": "2026-06-13T07:52:29.563Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-15.0.0.exe",
+  "fileName": "annotag-workshop-setup-15.0.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
-    "v14.0.0: 深度解耦 — Toolbar精简/CSS组件库/ImageViewer拆分/全局font-family/TS零错误"
+    "v15.0.0: 架构彻底解耦"
   ]
 }
