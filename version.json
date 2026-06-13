@@ -1,8 +1,8 @@
 {
-  "version": "15.0.4",
-  "releaseDate": "2026-06-13T08:54:18.413Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-15.0.4.exe",
-  "fileName": "annotag-workshop-setup-15.0.4.exe",
+  "version": "15.0.5",
+  "releaseDate": "2026-06-13T09:09:19.625Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-15.0.5.exe",
+  "fileName": "annotag-workshop-setup-15.0.5.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
     "v15.0.0: 架构彻底解耦"
