@@ -1,12 +1,11 @@
 {
-  "version": "11.0.0",
-  "releaseDate": "2026-06-13T02:36:29.365Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-11.0.0.exe",
-  "fileName": "annotag-workshop-setup-11.0.0.exe",
+  "version": "11.1.0",
+  "releaseDate": "2026-06-13T03:09:20.825Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-11.1.0.exe",
+  "fileName": "annotag-workshop-setup-11.1.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
-    "v11.0.0: 架构全面升级 — IPC通道补全+死代码清理(-950行)+共享组件(6个)+工程标注增强(27图章14分类)+Tabs自包含+审计hook",
-    "v10.1.0: 审计功能全面优化",
-    "v10.0.0: 市政审计深度适配"
+    "v11.1.0: 快捷键系统统一+选择工具增强+Modal统一弹窗+死代码清理(-537行)",
+    "v11.0.0: 架构全面升级"
   ]
 }
