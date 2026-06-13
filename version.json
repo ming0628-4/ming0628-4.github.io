@@ -1,7 +1,7 @@
 {
   "version": "10.1.0",
   "releaseDate": "2026-06-13T00:00:00.000Z",
-  "downloadUrl": "https://github.com/ming0628-4/annotag-workshop/releases/download/v10.1.0/annotag-workshop-setup-10.1.0.exe",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-10.1.0.exe",
   "fileName": "annotag-workshop-setup-10.1.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
