@@ -1,8 +1,8 @@
 {
-  "version": "11.2.0",
-  "releaseDate": "2026-06-13T03:32:32.240Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-11.2.0.exe",
-  "fileName": "annotag-workshop-setup-11.2.0.exe",
+  "version": "11.2.1",
+  "releaseDate": "2026-06-13T03:46:31.545Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-11.2.1.exe",
+  "fileName": "annotag-workshop-setup-11.2.1.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
     "v11.2.0: PDF全文搜索+页面缓存+关于Tab+设计现场去重+快捷键统一",
