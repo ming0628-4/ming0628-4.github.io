@@ -1,10 +1,10 @@
 {
-  "version": "12.0.1",
-  "releaseDate": "2026-06-13T04:30:39.348Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-12.0.1.exe",
-  "fileName": "annotag-workshop-setup-12.0.1.exe",
+  "version": "13.0.0",
+  "releaseDate": "2026-06-13T04:56:03.162Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-13.0.0.exe",
+  "fileName": "annotag-workshop-setup-13.0.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
-    "v12.0.0: 架构整理+体验打磨 — API服务层/三态组件/键盘导航/右键操作/快捷键提示/TS零错误"
+    "v13.0.0: 工具栏8→6Tab+去重+EventBus+ToolRegistry+静默更新"
   ]
 }
