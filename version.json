@@ -1,10 +1,10 @@
 {
-  "version": "16.0.0",
-  "releaseDate": "2026-06-13T16:10:08.232Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-16.0.0.exe",
-  "fileName": "annotag-workshop-setup-16.0.0.exe",
+  "version": "17.0.0",
+  "releaseDate": "2026-06-13T20:37:03.331Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-17.0.0.exe",
+  "fileName": "annotag-workshop-setup-17.0.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
-    "v16.0.0: 审计日志标准化+超期提醒+校准预设+右键菜单"
+    "v17.0.0: UX全面优化 — 色块放大+删除确认+测量结果toast+拖拽导入"
   ]
 }
