@@ -1,10 +1,10 @@
 {
-  "version": "17.1.0",
-  "releaseDate": "2026-06-14T01:13:16.385Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-17.1.0.exe",
-  "fileName": "annotag-workshop-setup-17.1.0.exe",
+  "version": "18.0.0",
+  "releaseDate": "2026-06-14T01:50:58.830Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-18.0.0.exe",
+  "fileName": "annotag-workshop-setup-18.0.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
-    "v17.1.0: 审计工作台优化 — 卡片增强+分类A-H筛选"
+    "v18.0.0: bug修复+CSV全量+项目切换清理+审计卡片增强"
   ]
 }
