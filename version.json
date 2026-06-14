@@ -1,10 +1,10 @@
 {
-  "version": "18.0.0",
-  "releaseDate": "2026-06-14T01:50:58.830Z",
-  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-18.0.0.exe",
-  "fileName": "annotag-workshop-setup-18.0.0.exe",
+  "version": "19.0.0",
+  "releaseDate": "2026-06-14T06:45:27.188Z",
+  "downloadUrl": "https://annotag-cdn-1442887809.cos.ap-guangzhou.myqcloud.com/releases/annotag-workshop-setup-19.0.0.exe",
+  "fileName": "annotag-workshop-setup-19.0.0.exe",
   "releaseUrl": "https://github.com/ming0628-4/annotag-workshop/releases/tag/v10.1.0",
   "changelog": [
-    "v18.0.0: bug修复+CSV全量+项目切换清理+审计卡片增强"
+    "v19.0.0: 产品策划重定义 — 右侧面板上下文化+一键导出+搜索加大"
   ]
 }
